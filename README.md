@@ -1,15 +1,5 @@
 ## Daniel Hammer's GitHub page
-### My interests:
-  - Low level programming
-  - OSDev
-  - Driver development
-  - Firmware
-  - Embedded software
-### Languages/technologies:
-  - C(++)
-  - Rust
-  - Bash
-  - Linux kernel
+Hi - I am Daniel and I am interested in low-level programming.
 
 ### My projects:
-  - More here soon
+  - Iron kernel
